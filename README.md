@@ -1,2 +1,2 @@
 # example
-This is an repository used for example purposes
+This is an repository used for example or testing purposes
